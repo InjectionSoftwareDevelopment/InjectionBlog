@@ -1,4 +1,4 @@
-# Welcome Back Blog!
+#### Welcome Back Blog!
 
 It's been awhile since I have done a blog post. As you likely know by now if you've been following the Injection youtube channel or either the 3ndG4me or InjectionDev twitter accounts, I do most of my updates via videos and tweets.
 
@@ -20,4 +20,4 @@ Welcome back to the new and improved Injection Blog! You can find all the old sh
 
 Looking forward to posting more in the future, for now, this is the start!
 
-- 3ndG4me (Casey Erdmann)
+&mdash; 3ndG4me (Casey Erdmann)
