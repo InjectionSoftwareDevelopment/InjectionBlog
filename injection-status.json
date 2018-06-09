@@ -4,7 +4,7 @@
     "platform": "web",
     "progress": "100%",
     "state": "done",
-    "released": false,
+    "released": true,
     "release_version": "1.0",
     "download_url": "",
     "featured": false,
