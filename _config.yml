@@ -39,7 +39,7 @@ layout: default
 comments: true
 # other options
 ---
-disqus:
+disqus: injectionsoftwaredevelopment-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
