@@ -58,7 +58,7 @@ Infrastructure flexibility is another key purpose, I'm paying more to get more a
 
 So that's kinda where all this is going. I want to expand the horizons of what resources I have at my disposal to do more!
 
-Right now my friend Nathan is assisting me in debugging issues with gh-pages and react, he was the main inspiration for this realization so shoutout to that guy check out is github [here](https://github.com/gibsonnathan).
+Right now my friend Nathan is assisting me in debugging issues with gh-pages and react, he was the main inspiration for this realization so shoutout to that guy, check out his github [here](https://github.com/gibsonnathan).
 
 Once we get that ball rolling, I'll slowly be making the changes I need to get off of my current hosting solution and be ready for `the future`.
 
