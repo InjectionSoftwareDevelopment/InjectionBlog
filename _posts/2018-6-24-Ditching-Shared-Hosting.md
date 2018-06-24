@@ -54,7 +54,7 @@ This shift makes it easier to maintain the core website in a LOT of ways:
 
 So why on earth would I NEED to do any of this? Well in the future I would like to potentially use CTFd to run my own fun CTF competitions. While I was in university I competed in many CTFs and even got the chance to write challenges for CTFs hosted by my school and its security club. I love being on both sides of creating and competing in CTFs, so I'd like to have the option to explore that creative outlet.
 
-Infrastructure flexibility is another key purpose, I'm paying more to get more and not be tied down. Ideally, much like the ability to run CTFd, I'd like to be able to stand up VPS's whenever I like and point new domains/sub domains at them as needed. This can be great for C3 on pentests, PoC security research, and various other reasons. It's the flexibility that is appealing to me. I can technically achieve this now with my current hosting, but I honestly don't want any of those things managed from the same place. It's a separation of duties principle really.
+Infrastructure flexibility is another key purpose, I'm paying more to get more and not be tied down. Ideally, much like the ability to run CTFd, I'd like to be able to stand up VPS's whenever I like and point new domains/sub domains at them as needed. This can be great for C2 on pentests, PoC security research, and various other reasons. It's the flexibility that is appealing to me. I can technically achieve this now with my current hosting, but I honestly don't want any of those things managed from the same place. It's a separation of duties principle really.
 
 So that's kinda where all this is going. I want to expand the horizons of what resources I have at my disposal to do more!
 
