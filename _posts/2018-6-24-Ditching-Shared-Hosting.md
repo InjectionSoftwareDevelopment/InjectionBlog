@@ -62,7 +62,7 @@ Right now my friend Nathan is assisting me in debugging issues with gh-pages and
 
 Once we get that ball rolling, I'll slowly be making the changes I need to get off of my current hosting solution and be ready for `the future`.
 
-Also as far as projects go, my next objective is to tackle [OpenVPNConnect](https://github.com/InjectionSoftwareDevelopment/OpenVPNConnect). I have had a few issues opened up by a community member on that repo, and since [seb](https://github.com/sebkinne) over at [Hak5](https://www.hak5.org/) has recently updates the WiFi Pineapple firmware it's about time I update my module!
+Also as far as projects go, my next objective is to tackle [OpenVPNConnect](https://github.com/InjectionSoftwareDevelopment/OpenVPNConnect). I have had a few issues opened up by a community member on that repo, and since [seb](https://github.com/sebkinne) over at [Hak5](https://www.hak5.org/) has recently updated the WiFi Pineapple firmware it's about time I update my module!
 
 I'll have another blog post out here once I release that so stay tuned.
 
