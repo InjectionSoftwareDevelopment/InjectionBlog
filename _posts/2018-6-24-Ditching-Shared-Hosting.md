@@ -1,4 +1,4 @@
-# Ditching Shared Hosting
+#### Ditching Shared Hosting
 
 I always have at least 10-15 "projects" going on at any given time. After all, idle hands are the devils workshop. 
 However, despite the number of projects that I have going on at any given time, I find myself to be idle more often than I would have thought.
