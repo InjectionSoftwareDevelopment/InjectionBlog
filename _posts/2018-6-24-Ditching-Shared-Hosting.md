@@ -33,7 +33,7 @@ Then it hit me...if I can run a blog on github pages, can I run a react site on 
 <img src="https://i.imgflip.com/2ctii4.jpg"/>
 </p>
 
-Currently I pay monthly for shared hosting via rubberduck hosting. It's extremely cheap! Like $1.50 a month cheap (I pay $3.00 for more storage since I used to host downloads there).
+Currently I pay monthly for shared hosting via rubberduck hosting. It's extremely cheap! Like $1.50 a month cheap (I pay $3.00 for more storage since I use to host downloads there).
 So I'm not really getting away from costs, in fact I am looking into moving my domain over to Google's services which is considerably more expensive at around $13 a month.
 The reason for considering moving to github pages is mostly for preparation for bigger and better infrastructure so that I can do more heavy duty things in the future and not hurt my main website in the process.
 
