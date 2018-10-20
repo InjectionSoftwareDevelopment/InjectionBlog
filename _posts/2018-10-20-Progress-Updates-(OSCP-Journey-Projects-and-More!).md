@@ -41,7 +41,7 @@ Current Status:
   - These are both slightly *easier* penetration testing certifications from eLearnSecurity that are still hands on and provide
     fantastic practical knowledge. I say *easier* because the eJPT is going to be a piece of cake for me as some one who is an
     established penetration tester professionally. The eCPPT will be a bit more of a challenge, but it is far less restrictive than
-    the OSCP, and provides a much larger amount of time to complete. I'd liket to snag these certs as a way of practice and preparation.
+    the OSCP, and provides a much larger amount of time to complete. I'd like to snag these certs as a way of practice and preparation.
     I don't think I need or really want these certs in general, but I do think it'll fantastic practice to be under the pressure of a
     practical test to get my mind in the right place coming to the OSCP. Besides, work is paying, and a few extra certs never hurt anyone
     ;).
