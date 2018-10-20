@@ -71,8 +71,7 @@ With that said here are the projects that WILL get updated/completed in 2018-201
 
 Now those items are in no particular order of priority, although I will say OpenVPNConnect and gfys are the first two things that
 will be completed. Injection Site will likely follow, but based on any competitions or events Propane could easily take the lead there.
-So really besides the first two, it'll be a mix up between the rest based on what my current predicament is when I move to the next
-project.
+So really besides the first two, it'll be a mix up between the rest based on what my current predicament is when I move to the next project.
 
 
-
+— 3ndG4me (Casey Erdmann)
