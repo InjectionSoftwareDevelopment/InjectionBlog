@@ -94,7 +94,7 @@ So what techniques are needed to pass the eJPT?
 
 
 
-The exam scenario itself drops you into an internal penetration test for a client. The scenario defines the rules of engagement, read this carefully as some things, such as brute forcing on a particular network, may NOT be allowed. This document will also provide you with a starting IP to ping, and from there you can use that information to discover more host on the network you've been dropped into.
+The exam scenario itself drops you into an internal penetration test for a client. The scenario defines the rules of engagement, read this carefully as some things, such as brute forcing on a particular network, may NOT be allowed. This document will also provide you with a starting IP to ping, and from there you can use that information to discover more hosts on the network you've been dropped into.
 
 
 
