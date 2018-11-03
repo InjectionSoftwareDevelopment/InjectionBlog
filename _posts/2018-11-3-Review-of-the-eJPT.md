@@ -86,7 +86,7 @@ So what techniques are needed to pass the eJPT?
       1. SQLMap is allowed, and is great to get the job done quick, but you better know how to do it manually too, or you WILL miss a few things.
    2. Cross Site Scripting (XSS)
 5. PIVOTING!!!
-   1. This exam relies heavy on understanding how to pivot, if you can't pivot you won't get far.
+   1. This exam relies heavily on understanding how to pivot, if you can't pivot you won't get far.
 6. Password Craking
    1. Familiarize yourself with hashcat and john the ripper, you will need them
 7. Brute Forcing
