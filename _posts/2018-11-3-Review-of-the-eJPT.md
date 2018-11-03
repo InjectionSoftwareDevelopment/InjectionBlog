@@ -76,7 +76,7 @@ It does give some help however. For example, if you only found 8 boxes on the ne
 
 So what techniques are needed to pass the eJPT?
 
-1. Good fundamental [penetration testing methodolgy](https://www.google.com/search?biw=1922&bih=859&tbm=isch&sa=1&ei=UiveW4yIOcKt_QaUkLnwBw&q=pentesting+methodology+sans&oq=pentesting+methodology+sans&gs_l=img.3...6699.7968..8072...0.0..0.59.261.5......0....1..gws-wiz-img.......0i30j0i24.fqYIuDg1VCY#imgrc=kQ0DpGuB2A4gJM:)
+1. Good fundamental [penetration testing methodolgy](https://blogs.sans.org/pen-testing/files/2017/12/PENT-PSTR-SANS18-BP-V1_web.pdf)
 2. Enumerate, EnUmerAtE, ENUMERATE!
    1. This means be familiar with nmap, netdiscover, metasploit scanners, sqlmap, gobuster, <insert other scanner/enumeration tool here>. Especially nmap, nmap will always be your best friend forever.
 3. Know how to exploit services, and also know how to use services
