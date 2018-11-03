@@ -87,7 +87,7 @@ So what techniques are needed to pass the eJPT?
    2. Cross Site Scripting (XSS)
 5. PIVOTING!!!
    1. This exam relies heavily on understanding how to pivot, if you can't pivot you won't get far.
-6. Password Craking
+6. Password Cracking
    1. Familiarize yourself with hashcat and john the ripper, you will need them
 7. Brute Forcing
    1. hydra is your friend, but if that doesn't work, a little python scripting goes a long way!
