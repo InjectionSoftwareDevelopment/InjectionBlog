@@ -110,7 +110,7 @@ When I took the exam the following information was true in regards to how long y
 
 
 
-I don't remember my exact score personally, since I did kind of breeze though it, but I think it was around and 86%. That just serves as a reminder to those who are experienced to not get too cocky, I should have gotten a perfect score, but instead I wanted to act like an ass and thought I was too good. Always be as humble as possible, you are never too good to do things correctly.
+I don't remember my exact score personally, since I did kind of breeze through it, but I think it was around and 86%. That just serves as a reminder to those who are experienced to not get too cocky, I should have gotten a perfect score, but instead I wanted to act like an ass and thought I was too good. Always be as humble as possible, you are never too good to do things correctly.
 
 
 
