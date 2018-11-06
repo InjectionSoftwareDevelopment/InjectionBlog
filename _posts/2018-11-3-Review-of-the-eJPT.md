@@ -118,7 +118,7 @@ That brings me to my last point, experienced, or not, do NOT underestimate the t
 
 
 
-You have 3 days for a reason, use as much time as you need, don't rush! This is a realistic penetration testing engagement, they take time. It doesn't matter how experienced or good you are, if you are doing this exam correctly, it will take you at least 3 hours in my opinion. If you are just truly kick ass and running through, you can probably own the whole network in about an hour or so, but if you are recording information and doing everything as if it were a real penetration test, and not just "popping boxes" it will take some time no matter who you are.
+You have 3 days for a reason, use as much time as you need, don't rush! This is a realistic penetration testing engagement, they take time. It doesn't matter how experienced or good you are, if you are doing this exam correctly, it will take you at least 3 hours in my opinion. If you are just truly kick ass and running through, you can probably own the whole network in about an hour or so, but if you are recording information and doing everything as if it were a real penetration test, and not just "popping boxes", it will take some time no matter who you are.
 
 
 
