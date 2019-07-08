@@ -4,7 +4,7 @@ This article is a tale of pain and triumph, with some controversial opinions to 
 
 If you only want to read about the review of the Course, Lab, and Exam, and forgo all of the "story", just click [here](#course-review) (not a phishing link I promise 😉).
 
-If you prefer to listen and look at poorly drawn slides/stick figures you can check out this video version of my review here: [OSCP Journey Part 28.0 (OSCP Review)](https://youtu.be/zXkLbcDcYiA).
+If you prefer to listen and look at poorly drawn slides/stick figures you can check out this video version of my review here: [OSCP Journey Part 28.0 (PWK/OSCP Review)](https://youtu.be/zXkLbcDcYiA).
 
 **DISCLAIMER:** 
 
@@ -21,6 +21,8 @@ Within this post you will find details about my background, why I chose to tackl
 
 Thank you for reading, I hope this provides value to you!
 
+
+<p align="center"><img src="https://www.offensive-security.com/wp-content/uploads/2012/01/oscp-certs.png"/></p>
 
 ## Table of Contents <a name="table-of-contents"></a>
 ### &nbsp;&nbsp;&nbsp;&nbsp; - [PWK and OSCP Review](#pwk-oscp-review)
