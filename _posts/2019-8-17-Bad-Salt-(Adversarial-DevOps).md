@@ -231,7 +231,7 @@ What's going on here is the following:
 3. We show that the correct Salt Master received no communications from the Salt Minion.
 4. We show that the "bad" Salt Master successfully received the MitM communications and was able to fully intercept the Minion key exchange resulting in a full Minion take over as long as the Minion continues to talk to our "bad" Salt Master.
 
-The good news is that this only works on initial communication. Once a Salt Minion has associate with a Master it will store that Master's fingerprint and use that for validation around whether or not it is talking to the correct Salt Master. If it is not it will actually log this warning to the Salt Minion logs:
+The good news is that this only works on initial communication. Once a Salt Minion has associated with a Master it will store that Master's fingerprint and use that for validation around whether or not it is talking to the correct Salt Master. If it is not it will actually log this warning to the Salt Minion logs:
 
 <p align="center"><img height="250px" src="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/mitm/crypt.png"/></p>
 
