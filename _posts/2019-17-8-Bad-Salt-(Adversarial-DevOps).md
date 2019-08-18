@@ -221,7 +221,7 @@ This means if we MitM a Minion during it's first communications and convince it 
 Demo:
  <video width="920" height="480" controls>
   <source src="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/mitm-demo-edit.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<a href="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/mitm-demo-edit.mp4">Demo video link if it didn't load inline for you</a>
 </video> 
 
 What's going on here is the following:
@@ -338,7 +338,7 @@ The project is open source, so if this interest you and you would like to contri
 Here is a demo of BadSalt in action:
  <video width="920" height="480" controls>
   <source src="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/badsalt-demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<a href="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/badsalt-demo.mp4">Demo video link if it didn't load inline for you</a>
 </video> 
 
 In this video we show that:
