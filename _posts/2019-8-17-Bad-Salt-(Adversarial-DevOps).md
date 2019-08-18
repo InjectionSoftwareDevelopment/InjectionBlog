@@ -436,7 +436,7 @@ Also check for the existence of service logs for both Windows and Systemd:
 - salt-minion
 - salt-master
 
-A final key thing to discuss on the defensive side is detecting multiple minions. If you are an organization that is actually using SaltStack in their environment, and attacker can see that once they've compromised a system with a Minion on it. From there they can actually leverage your existing Minion installation to deploy a second Minion service to call back to their Master. This lets them evade all the other initial detections and forensic evidence, but they aren't home free yet!
+A final key thing to discuss on the defensive side is detecting multiple minions. If you are an organization that is actually using SaltStack in their environment, an attacker can see that once they've compromised a system with a Minion on it. From there they can actually leverage your existing Minion installation to deploy a second Minion service to call back to their Master. This lets them evade all the other initial detections and forensic evidence, but they aren't home free yet!
 
 To detect a second minion installation look for the following artifacts:
 
