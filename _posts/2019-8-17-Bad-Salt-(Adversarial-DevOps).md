@@ -349,7 +349,7 @@ In this video we show that:
 
 In the BadSalt repo you can take a look at the current proof of concept states. There is one for a backdoor user on both Linux and Windows (Windows one shown in the above demo video), and another state for managing the file deployment of an executable on both Linux and Windows. 
 
-The managed file state is labeled with verbiage about meterpreter because I was testing meterpreter hand-offs, but that is the baseline for deployment and execution for any or script.
+The managed file state is labeled with verbiage about meterpreter because I was testing meterpreter hand-offs, but that is the baseline for deployment and execution for any binary or script.
 
 You can find them here:
 [https://github.com/3ndG4me/BadSalt/tree/master/post-exploitation](https://github.com/3ndG4me/BadSalt/tree/master/post-exploitation)
