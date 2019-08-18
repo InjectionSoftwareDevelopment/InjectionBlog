@@ -451,7 +451,7 @@ Obviously, this is an open source platform, and my next goal as an offensive sec
 
 ## Conclusion
 
-To wrap up, I highly recommend SaltStack as a platform, but honestly any of the tools mentioned are going to be great if you are looking into solving the problems that configuration management and desired state can help you tackle. I highly recommend approaching one of these tools whether you're in Ops, Defense, or Offense to use to your advantage as they can really help solve many of the system maintenance and management challenges many of use face in the professional field.
+To wrap up, I highly recommend SaltStack as a platform, but honestly any of the tools mentioned are going to be great if you are looking into solving the problems that configuration management and desired state can help you tackle. I highly recommend approaching one of these tools whether you're in Ops, Defense, or Offense to use to your advantage as they can really help solve many of the system maintenance and management challenges many of us face in the professional field.
 
 A few appreciation shoutouts to the following individuals in my life. I wouldn't have been able to present this at DEF CON 27 Red Team Village without their support or influence:
 
