@@ -390,7 +390,7 @@ If you'd like to observe some packet capture samples I've already done the work 
 
 [https://github.com/3ndG4me/BadSalt/tree/master/research/packet_captures](https://github.com/3ndG4me/BadSalt/tree/master/research/packet_captures)
 
-You may notice that port 4505 is mapped to 80 and port 4506 is mapped to 443. This is from testing configuration changes for egress to look like standard web ports. This is the default for BadSalt's Salt Master configuration and can be changed in it's configuration file.
+You may notice that port 4505 is mapped to 80 and port 4506 is mapped to 443. This is from testing configuration changes for egress to look like standard web ports. This is the default for BadSalt's Salt Master configuration and can be changed in its configuration file.
 
 What we should take notice of though is the following pattern.
 
