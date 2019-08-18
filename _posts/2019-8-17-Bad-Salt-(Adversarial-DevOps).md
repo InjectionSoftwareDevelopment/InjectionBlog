@@ -249,7 +249,7 @@ Log after failed attack:
 
 There are only two ways to prevent this modern MitM attack, and they've both been touched on above, but we will plainly list them out below:
 
-1. Deploy Salt Minion’s with Master fingerprints defined in their configuration.
+1. Deploy Salt Minions with Master fingerprints defined in their configuration.
 	- This is the absolute best and most correct solution and there is no reason not to do this. You might as well not even read option 2, because this is the correct solution.
 2. Immediately accept all incoming connections and hope your minion never deletes its known fingerprint.
 	- This solution is just OKAY. This only works because the Minion stores the correct fingerprint after initial communications, but that fingerprint isn't statically defined in the Minion configuration. This means if it's ever removed for any reason, the Minion could become vulnerable again. Option 2 also doesn’t work if the attacker is already on your network MitM all the things ;)
