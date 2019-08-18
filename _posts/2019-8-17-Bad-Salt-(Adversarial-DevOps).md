@@ -358,7 +358,7 @@ These states are simply YAML files that declare how the system should look, and 
 
 SaltStack Docs: [https://docs.saltstack.com/en/latest/contents.html](https://docs.saltstack.com/en/latest/contents.html)
 
-That said, if you just want to get started with basic C2 communications using BadSalt, all you have to do is replace the network configuration pieces with you own, and run the scripts, should mostly work out of the box.
+That said, if you just want to get started with basic C2 communications using BadSalt, all you have to do is replace the network configuration pieces with your own, and run the scripts, should mostly work out of the box.
 
 
 ## Detecting Hackers Abusing SaltStack
