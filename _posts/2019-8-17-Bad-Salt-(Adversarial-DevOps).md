@@ -275,7 +275,7 @@ Remember the simplified architecture from earlier?
 
 <p align="center"><img height="500px" src="https://docs.saltstack.com/en/getstarted/images/basic-comm.png"/></p>
 
-In it's most basic form SaltStack allows us to distribute "agents" AKA "Minions" to our targets, phone home to a Salt Master, and from there we can literally just execute commands from the Master using the `cmd.run` syntax.
+In its most basic form SaltStack allows us to distribute "agents" AKA "Minions" to our targets, phone home to a Salt Master, and from there we can literally just execute commands from the Master using the `cmd.run` syntax.
 
 This is as blatant as C2 operations get, but there are lot's of C2 tools out there. Stuff like Merlin, Empire, Metasploit, etc...
 
