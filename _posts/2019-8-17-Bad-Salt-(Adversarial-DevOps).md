@@ -295,7 +295,7 @@ Merlin Features:
 
 - Command & Control - Execute system commands and receive their output
 - Traffic looks like HTTPS over the http.2 protocol - Allows for lower noise on egress, looks like "normal" web traffic and provides an encrypted channel.
-- Post exploitation modules built in - Let's use run scripts like PowerUp or Mimikatz to perform post-exploitation operations for persistence or lateral movement
+- Post exploitation modules built in - Lets us run scripts like PowerUp or Mimikatz to perform post-exploitation operations for persistence or lateral movement
 - Some AV Evastion - This isn't a touted feature because it won't always be true, but Merlin is newer and is written in golang. This means it usually won't be detected by AV because the majority of modern AV softwares have trouble detecting non-signature based golang "malcode", so at least for now at the time of this article, Merlin is pretty reliable when it comes to bypassing AV. Again, this won't always be true, but demonstrates a key reason to stay up to date on new tools, languages, and frameworks as an offensive security professional.
 
 
