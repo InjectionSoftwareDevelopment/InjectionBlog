@@ -7,7 +7,7 @@
 
 BadSalt (Adversarial DevOps) was the title of a presentation I gave at DEF CON 27 as part of the Red Team Village. This blogpost will be a written representation of the research and ideas conveyed in the presentation.
 
-My presentation was recorded and I have been told it will be posted on the DEF CON youtube page with the rest of the DEF CON 27 talks once they come out. Below is a placeholder for the video link. I will update this article with actual link once the video is made available:
+My presentation was recorded and I have been told it will be posted on the DEF CON youtube page with the rest of the DEF CON 27 talks once they come out. Below is a placeholder for the video link. I will update this article with the actual link once the video is made available:
 
 `placeholder`
 
@@ -219,7 +219,7 @@ This means if we MitM a Minion during it's first communications and convince it 
 
 
 Demo:
- <video width="920" height="480" controls>
+ <video width="100%" height="100%" controls>
   <source src="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/mitm-demo-edit.mp4" type="video/mp4">
 <a href="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/mitm-demo-edit.mp4">Demo video link if it didn't load inline for you</a>
 </video> 
@@ -336,7 +336,7 @@ However, I have some further plans to pre-build in some nasty Salt states that a
 The project is open source, so if this interest you and you would like to contribute feel free!
 
 Here is a demo of BadSalt in action:
- <video width="920" height="480" controls>
+ <video width="100%" height="100%" controls>
   <source src="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/badsalt-demo.mp4" type="video/mp4">
 <a href="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/research/badsalt-demo.mp4">Demo video link if it didn't load inline for you</a>
 </video> 
