@@ -1,7 +1,7 @@
 #### Review of the eJPT
 
 <p align="center">
-<img src="https://drd2shbp62i2h.cloudfront.net/com/assets/images/certification/ejpt_certificate_sm.png"/>
+<img src="https://d2w88u8h44ahhm.cloudfront.net//assets/images/certification/ejpt_certificate_sm.png"/>
 </p>
 
 
