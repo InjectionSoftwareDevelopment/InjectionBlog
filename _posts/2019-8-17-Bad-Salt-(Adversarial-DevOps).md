@@ -126,7 +126,7 @@ Here is a large depiction of the SaltStack architecture and all of its component
 Source: [https://www.saltstack.com/blog/whats-saltstack/](https://www.saltstack.com/blog/whats-saltstack/)
 
 
-As you can see there is A LOT to SaltStack. Between the architecture around the Reactor and Event Bus, to neat tools and integrations like the Pillar or Cloud. However, for the purpose of this article we only care about the "Master" as a while from the perspective of the "Wheel" and "File Server", and the client "Beacons" and "Returners".
+As you can see there is A LOT to SaltStack. Between the architecture around the Reactor and Event Bus, to neat tools and integrations like the Pillar or Cloud. However, for the purpose of this article we only care about the "Master" as a whole from the perspective of the "Wheel" and "File Server", and the client "Beacons" and "Returners".
 
 That said there is a much simpler way to look at all of those concepts and that is as the "Salt Master" and "Salt Minion":
 
