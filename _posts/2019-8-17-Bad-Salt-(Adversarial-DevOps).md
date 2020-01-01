@@ -9,7 +9,7 @@ BadSalt (Adversarial DevOps) was the title of a presentation I gave at DEF CON 2
 
 My presentation was recorded and I have been told it will be posted on the DEF CON youtube page with the rest of the DEF CON 27 talks once they come out. Below is a placeholder for the video link. I will update this article with the actual link once the video is made available:
 
-`placeholder`
+[https://www.youtube.com/watch?v=ioBAK7hGZi4](https://www.youtube.com/watch?v=ioBAK7hGZi4)
 
 Thank you for all those who attended my session live at the Red Team Village, I really appreciate the support! I hope everyone reading this finds the information within useful.
 
