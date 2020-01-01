@@ -190,7 +190,7 @@ Hope you're on the edge of your seat now, because that was my trick statement to
 
 This isn't really a vulnerability per se, and is known by SaltStack in their design and has clear mitigations. It's actually just an inherent risk with the design and is hard to mitigate past what controls they've already implemented.
 
-With that said, while it isn't "high risk", it is easily to pull off given the right conditions. This issue is caused by the need to distribute keys upon initial communication between a Master and a Minion.
+With that said, while it isn't "high risk", it is easy to pull off given the right conditions. This issue is caused by the need to distribute keys upon initial communication between a Master and a Minion.
 
 For starters let's talk about the key exchange process:
 
