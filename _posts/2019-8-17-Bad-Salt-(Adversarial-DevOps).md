@@ -14,6 +14,11 @@ My presentation was recorded and I have been told it will be posted on the DEF C
 Thank you for all those who attended my session live at the Red Team Village, I really appreciate the support! I hope everyone reading this finds the information within useful.
 
 
+Presentation Abstract for those interested:
+
+[https://github.com/3ndG4me/BadSalt/blob/master/research/BadSalt%2BAbstract.md](https://github.com/3ndG4me/BadSalt/blob/master/research/BadSalt%2BAbstract.md)
+
+
 ## Slides, code, pcaps, etc...
 
 This is a link to the Github repo where I maintain the "BadSalt" project. The "BadSalt" project itself will be discussed in this post, but this repo also contains my presentation slides, and research artifacts for those who may be interested in that sort of thing.
