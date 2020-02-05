@@ -21,14 +21,14 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: InjectionSoftwareDevelopment
+  github: InjectionSoftwareandSecurityLLC
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: InjectionDev
+  rss: injectionblog # just type anything here for a working RSS icon
+  twitter: InjectionSec
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UC31jVeFdiPWsxMRqhXapRGQ # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
