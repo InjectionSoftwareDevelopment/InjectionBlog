@@ -22,7 +22,7 @@ Within this post you will find details about my background, why I chose to tackl
 Thank you for reading, I hope this provides value to you!
 
 
-<p align="center"><img src="https://www.offensive-security.com/wp-content/uploads/2012/01/oscp-certs.png"/></p>
+<p align="center"><img src="https://www.offensive-security.com/wp-content/uploads/2019/10/Group-175@2x-300x270.png"/></p>
 
 ## Table of Contents <a name="table-of-contents"></a>
 ### &nbsp;&nbsp;&nbsp;&nbsp; - [PWK and OSCP Review](#pwk-oscp-review)
