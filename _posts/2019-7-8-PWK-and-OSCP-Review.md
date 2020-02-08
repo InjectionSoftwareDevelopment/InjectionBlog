@@ -248,13 +248,13 @@ For those that don't, this section is just a quick recap of what I did to prepar
 		- (Completed) jerry
 		- conceal
 		- (Completed) Jeeves [Slightly Harder the OSCP]
-		- Bart [Slightly Harder the OSCP]
-		- Tally [Slightly Harder the OSCP]
-		- Active [Slightly Harder the OSCP]
-		- Jail [Slightly Harder the OSCP]
-		- falafel [Slightly Harder the OSCP]
-		- (Completed) DevOops [Slightly Harder the OSCP]
-		- Hawk [Slightly Harder the OSCP]
+		- Bart [Slightly Harder than OSCP]
+		- Tally [Slightly Harder than OSCP]
+		- Active [Slightly Harder than OSCP]
+		- Jail [Slightly Harder than OSCP]
+		- falafel [Slightly Harder than OSCP]
+		- (Completed) DevOops [Slightly Harder than OSCP]
+		- Hawk [Slightly Harder than OSCP]
 	- Misc:
 		- (Completed) Metasploitable 1 https://www.vulnhub.com/entry/metasploitable-1,28/ 
 		- (Completed) Metasploitable 2 https://metasploit.help.rapid7.com/docs/metasploitable-2
